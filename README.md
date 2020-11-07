@@ -22,6 +22,6 @@
 </body>
 </html>
 ```
-![ảnh dao diện sau khi code]
-(1.png)
+# Ảnh dao diện :
+![ảnh dao diện sau khi code](1.png)
 
