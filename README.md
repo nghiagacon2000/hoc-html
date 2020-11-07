@@ -16,14 +16,9 @@
             <ul>
                 <li><em>công nghệ thông tin k63<em></li>
                 <li><strong>lớp thiết kế wed<strong></li>
-                
             </ul>
-
         </div>
-
-
-    </div>
-    
+    </div>   
 </body>
 </html>
 '''
