@@ -1,5 +1,5 @@
 # code html bài 1
-'''html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,6 +21,6 @@
     </div>   
 </body>
 </html>
-'''
+```
 ![ảnh dao diện sau khi code](http:img/1.jpg)
 
